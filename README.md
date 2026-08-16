@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
