@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1025-divisor-game) |
+| [3840-house-robber-v](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3840-house-robber-v) |
 ## Brainteaser
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [3840-house-robber-v](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3840-house-robber-v) |
 ## Hash Table
 |  |
 | ------- |
