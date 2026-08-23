@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+## Database
+|  |
+| ------- |
+| [3521-find-product-recommendation-pairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3521-find-product-recommendation-pairs) |
 <!---LeetCode Topics End-->
