@@ -70,22 +70,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
 ## Database
 |  |
@@ -95,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
