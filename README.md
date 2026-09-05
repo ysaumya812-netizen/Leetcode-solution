@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3840-house-robber-v](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3840-house-robber-v) |
 ## Hash Table
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 <!---LeetCode Topics End-->
