@@ -128,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
