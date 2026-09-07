@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
