@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
