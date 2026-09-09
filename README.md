@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0290-word-pattern) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
