@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0343-integer-break](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
