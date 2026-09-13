@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0183-customers-who-never-order) |
 | [3521-find-product-recommendation-pairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3521-find-product-recommendation-pairs) |
 ## Binary Search Tree
