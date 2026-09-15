@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0343-integer-break](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
