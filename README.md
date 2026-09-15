@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0454-4sum-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0454-4sum-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0454-4sum-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -89,9 +91,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
