@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [1025-divisor-game](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [3870-count-commas-in-range](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3840-house-robber-v](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3840-house-robber-v) |
 ## Brainteaser
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
 |  |
 | ------- |
