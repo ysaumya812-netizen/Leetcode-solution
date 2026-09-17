@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0669-trim-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0669-trim-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0669-trim-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
