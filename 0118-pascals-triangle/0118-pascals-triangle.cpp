@@ -1,22 +1,14 @@
 class Solution {
 public:
-    vector<int>pt (int r){
-        vector<int>ans;
-        ans.push_back(1);
-        int res=1;
-        for(int i=1;i<r;i++){
-            res=res*(r-i);
-            res=res/i;
-            ans.push_back(res);
-        } 
-        return ans;
-    }
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>>fans;
-        for(int i=1;i<=numRows;i++){
-           
-            fans.push_back(pt(i));
+        vector<vector<int>>ans;
+        for(int i=0;i<numRows;i++){
+            vector<int>dp(i+1,1);
+            for(int j=1;j<i;j++){
+                dp[j] = ans[i-1][j-1] + ans[i-1][j];
+            }
+            ans.push_back(dp);
         }
-        return fans;
+        return ans;
     }
 };
