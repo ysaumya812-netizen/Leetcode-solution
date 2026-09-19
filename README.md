@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [1025-divisor-game](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
