@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
