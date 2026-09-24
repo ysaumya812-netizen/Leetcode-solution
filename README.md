@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3840-house-robber-v](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3840-house-robber-v) |
 ## Hash Table
