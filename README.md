@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0198-house-robber) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0162-find-peak-element) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
