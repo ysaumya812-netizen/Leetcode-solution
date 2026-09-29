@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0520-detect-capital) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
