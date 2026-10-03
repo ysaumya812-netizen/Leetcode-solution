@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
