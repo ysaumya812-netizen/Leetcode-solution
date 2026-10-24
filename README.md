@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0454-4sum-ii) |
 | [0929-unique-email-addresses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0929-unique-email-addresses) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Longest Common Subsequence
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Backtracking
 |  |
