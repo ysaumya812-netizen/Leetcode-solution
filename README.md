@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0338-counting-bits) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Backtracking
