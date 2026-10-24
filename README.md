@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Database
 |  |
 | ------- |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1291-sequential-digits) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
