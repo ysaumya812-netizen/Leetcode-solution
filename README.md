@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Union-Find
 |  |
 | ------- |
