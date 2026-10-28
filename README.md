@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0454-4sum-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0454-4sum-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1002-find-common-characters) |
