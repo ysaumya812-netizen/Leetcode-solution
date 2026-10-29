@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2826-sorting-three-groups](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2826-sorting-three-groups) |
 | [3524-find-x-value-of-array-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0454-4sum-ii) |
 | [0929-unique-email-addresses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1002-find-common-characters) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+## Counting
+|  |
+| ------- |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 <!---LeetCode Topics End-->
