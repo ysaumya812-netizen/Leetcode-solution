@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0725-split-linked-list-in-parts) |
 ## Two Pointers
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
