@@ -13,18 +13,15 @@ public:
     ListNode* reverseList(ListNode* head) {
         vector<int>ans;
         ListNode* curr= head;
-        
-        while(curr!=NULL){
-            ans.push_back(curr->val);
-            curr=curr->next;
+        ListNode* prev= NULL;
+        ListNode* fut= NULL;
+        while(curr){
+            fut= curr->next;
+            curr->next= prev;
+            prev=curr;
+            curr=fut;
         }
-        int i= ans.size()-1;
-        curr= head;
-        while(curr!=NULL){
-            curr->val= ans[i];
-            i--;
-            curr= curr->next;
-        }
+        head = prev;
         return head;
     }
 };
