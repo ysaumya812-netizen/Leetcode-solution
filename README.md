@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2826-sorting-three-groups](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2826-sorting-three-groups) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -345,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 <!---LeetCode Topics End-->
