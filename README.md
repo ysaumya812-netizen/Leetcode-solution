@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0039-combination-sum) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Bitmask
 |  |
