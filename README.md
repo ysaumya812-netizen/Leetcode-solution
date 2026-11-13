@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [1025-divisor-game](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [2826-sorting-three-groups](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2826-sorting-three-groups) |
 ## Sorting
 |  |
