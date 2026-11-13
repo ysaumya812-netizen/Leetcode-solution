@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0929-unique-email-addresses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0929-unique-email-addresses) |
+| [0984-string-without-aaa-or-bbb](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0984-string-without-aaa-or-bbb) |
 | [1002-find-common-characters](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0409-longest-palindrome) |
+| [0984-string-without-aaa-or-bbb](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/0984-string-without-aaa-or-bbb) |
 | [1382-balance-a-binary-search-tree](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 ## Prefix Sum
