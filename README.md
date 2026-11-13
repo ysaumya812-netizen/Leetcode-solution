@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2826-sorting-three-groups](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2826-sorting-three-groups) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3355-zero-array-transformation-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3355-zero-array-transformation-i) |
 | [3524-find-x-value-of-array-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3355-zero-array-transformation-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3355-zero-array-transformation-i) |
 ## Linked List
 |  |
 | ------- |
