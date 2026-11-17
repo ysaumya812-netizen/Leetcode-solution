@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/3330-find-the-original-typed-string-i) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1929-concatenation-of-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ysaumya812-netizen/Leetcode-solution/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
