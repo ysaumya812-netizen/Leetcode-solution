@@ -1,18 +1,18 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 0) return 0;
-        if (n == 1) return nums[0];
-        
-        int prev = max(nums[0],nums[1]);
-        int prev2=nums[0];
-        int curr=prev;
-        for(int i=2;i<nums.size();i++){
-            curr=max(nums[i]+prev2,prev);
-            prev2=prev;
-            prev=curr;
+        int n= nums.size();
+        if(n==1){
+            return nums[0];
         }
-        return curr;
+        vector<int>t(n+1);
+        t[0]=0;
+        t[1]=nums[0];
+        for(int i=2;i<=n;i++){
+            int skip=t[i-1];
+            int steal= nums[i-1]+t[i-2];
+            t[i]= max(skip,steal);
+        }
+        return t[n];
     }
 };
